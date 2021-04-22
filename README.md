@@ -1,6 +1,8 @@
 # taxonomy
 
-Arquivo de Orientação das planilhas.
+Arquivo de descrição das planilhas.
+
+As planilhas apresentam os dados utilizados na elaboração da taxonomia. Aqui são apresentadas os títulos dos trabalhos analisados e os dados colhidos.
 
 Os arquivos possuem o mesmo conteúdo, somente estão gravados em formatos diferentes. 
 
